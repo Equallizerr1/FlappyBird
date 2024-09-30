@@ -4,7 +4,7 @@ A simple recreation of the classic Flappy Bird game implemented in Java.
 
 ## Features
 - Classic Flappy Bird gameplay
-- Adjustable difficulty levels
+- Adjustable difficulty levels (WIP)
 - Basic scoring system
 
 ## Installation
